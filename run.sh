@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "current directory:"
-echo $(pwd)
 echo "running python src/dostuff.py"
 python src/dostuff.py
 
